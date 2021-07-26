@@ -1,6 +1,6 @@
 # Pop to Click
 
-Talon has exactly two noises that are built in and immediately recognizeable.  (You can add more, but the setup is a lot more intensive, and I bet you'd rather get started as quickly as possible. 
+Talon currently has exactly two noises that are built in and immediately useable by Talon.   This script uses the built-in 'pop' noise and this script programs Talon to click the mouse cursor when it hears the 'pop' noise.  It is possible to use other noises, but this is the simplest noise to set up. 
 
 Demonstration of what the popping sound is supposed to sound like: 
 
